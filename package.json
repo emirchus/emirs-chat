@@ -1,7 +1,19 @@
 {
-  "name": "react-chat",
-  "private": true,
-  "version": "0.0.0",
+  "name": "emirschat",
+  "private": false,
+  "version": "0.0.1",
+  "author": {
+    "name": "Emir"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": "please-use-yarn",
+    "yarn": ">=1.22.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emirchus/emirs-chat"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
