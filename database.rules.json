@@ -1,0 +1,9 @@
+{
+  "rules": {
+    ".read": "now < 1673146800000",  // 2023-1-8
+    ".write": "now < 1673146800000",  // 2023-1-8
+    "messages": {
+      ".indexOn": "createdAt"
+    }
+  }
+}
