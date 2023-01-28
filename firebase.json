@@ -3,7 +3,7 @@
     "rules": "database.rules.json"
   },
   "hosting": {
-    "target": "emirschat",
+    "site": "emirschat",
     "public": "dist",
     "ignore": [
       "firebase.json",
